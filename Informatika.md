@@ -161,7 +161,7 @@ Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
 Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
-
+https://cibirublog.wordpress.com/2023/12/24/eksplorasi-dan-pilih-topik-yang-diminati-di-roadmap-sh-%e2%ad%90%e2%ad%90%e2%ad%90/
 
 Eksplorasi Top Github Project yang Diminati ⭐⭐
 
