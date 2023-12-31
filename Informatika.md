@@ -153,7 +153,7 @@ Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
 
 Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
-
+https://cibirublog.wordpress.com/2023/12/24/eksplorasi-lowongan-pekerjaan-it-%e2%ad%90%e2%ad%90%e2%ad%90/
 
 Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
