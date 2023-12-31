@@ -146,6 +146,7 @@ Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐
 
 Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
+https://youtu.be/k6bpNXGQKB0
 
 Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
 
