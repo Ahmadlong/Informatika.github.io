@@ -24,7 +24,7 @@ https://youtu.be/-yITQj4iRfQ
 
 Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
-https://youtu.be/mv02cdc1dgQ
+https://youtu.be/l-7VQyWK9sk
 
 Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
