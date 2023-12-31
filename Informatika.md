@@ -169,7 +169,7 @@ Eksplorasi Top Github Project yang Diminati ⭐⭐
 
 Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
-
+https://cibirublog.wordpress.com/2023/12/31/membangun-profil-linkedin-dan-mengikuti-akun-akun-inspirasif-bertema-informatika/
 
 Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
