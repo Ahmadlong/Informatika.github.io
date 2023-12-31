@@ -157,7 +157,7 @@ Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
 Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
-
+https://cibirublog.wordpress.com/2023/12/25/eksplorasi-lowongan-freelancer-it-upwork-toptal-freelancer-com%e2%ad%90%e2%ad%90%e2%ad%90/
 
 Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
