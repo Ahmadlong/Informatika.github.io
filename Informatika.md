@@ -142,7 +142,7 @@ Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
-
+https://cibirublog.wordpress.com/2023/12/24/mengeksplorasi-seluruh-profesi-terkait-informatika-dan-profesi-yang-diminati%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90/
 
 Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
