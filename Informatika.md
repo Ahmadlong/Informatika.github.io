@@ -28,7 +28,7 @@ https://youtu.be/l-7VQyWK9sk
 
 Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
-https://youtu.be/3hWV-Lmorq0
+https://cibirublog.wordpress.com/2023/12/31/mencoba-algoritma-bubble-sort-menggunakan-java/
 
 Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
