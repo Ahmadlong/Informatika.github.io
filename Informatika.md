@@ -92,43 +92,40 @@ https://youtube.com/shorts/DpAjZR2-zVE?feature=share
 
 Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
-https://youtu.be/EVQEG5rU0jY
+
 
 Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
-https://youtu.be/emSc3G_3cEA
+
 
 Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
-https://youtu.be/GiRdmXao6a8
 
 Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
-https://youtu.be/OTbXXwr35Zc
+
 
 Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
-https://youtu.be/BdviOjDF4L4
 
 Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
-https://cibirublog.wordpress.com/2023/12/26/mencoba-data-visualization-dengan-tools-v-%e2%ad%90%e2%ad%90/
+
 
 Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
-https://youtu.be/fkpf8V4gmgI
 
 Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
-https://cibirublog.wordpress.com/2023/12/25/mendaftar-dan-mencoba-eksplorasi-huggingface-v-%e2%ad%90%e2%ad%90%e2%ad%90/
+
 
 Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
-https://youtu.be/tx_EHhua9gs
+
 
 Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
-https://cibirublog.wordpress.com/2023/12/26/mencoba-protokol-komunikasi-iot-mqtt/
+
 
 Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
@@ -136,53 +133,49 @@ Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
 Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
-https://cibirublog.wordpress.com/2023/12/24/menjelaskan-jurnal-conference-artikel-grade-jurnal-v-%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90/
 
 Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
 Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
-https://youtu.be/wF_16y3DpBw
+
 
 Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
-https://cibirublog.wordpress.com/2023/12/24/mengeksplorasi-seluruh-profesi-terkait-informatika-dan-profesi-yang-diminati%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90/
+
 
 Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
-https://youtu.be/k6bpNXGQKB0
 
 Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
 
-https://youtu.be/Ufb0je6CSV4
+
 
 Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
-https://cibirublog.wordpress.com/2023/12/24/eksplorasi-lowongan-pekerjaan-it-%e2%ad%90%e2%ad%90%e2%ad%90/
+
 
 Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
-https://cibirublog.wordpress.com/2023/12/25/eksplorasi-lowongan-freelancer-it-upwork-toptal-freelancer-com%e2%ad%90%e2%ad%90%e2%ad%90/
+
 
 Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
-https://cibirublog.wordpress.com/2023/12/24/eksplorasi-dan-pilih-topik-yang-diminati-di-roadmap-sh-%e2%ad%90%e2%ad%90%e2%ad%90/
+
 
 Eksplorasi Top Github Project yang Diminati ⭐⭐
 
-https://cibirublog.wordpress.com/2023/12/24/eksplorasi-top-github-project-yang-diminati-%e2%ad%90%e2%ad%90/
+
 
 Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
-https://cibirublog.wordpress.com/2023/12/31/membangun-profil-linkedin-dan-mengikuti-akun-akun-inspirasif-bertema-informatika/
+
 
 Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
 Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
-https://cibirublog.wordpress.com/2023/12/25/mengikuti-workshop-event-course-terkait-it-%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90/
+
 
 Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
-
-https://cibirublog.wordpress.com/2023/12/25/membaca-dan-mengambil-inspirasi-dari-buku-bertema-informatika%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90/
 
