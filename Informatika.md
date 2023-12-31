@@ -174,7 +174,7 @@ https://cibirublog.wordpress.com/2023/12/24/eksplorasi-top-github-project-yang-d
 
 Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
-www.linkedin.com/in/ahmad-ridwan123
+https://cibirublog.wordpress.com/2023/12/31/membangun-profil-linkedin-dan-mengikuti-akun-akun-inspirasif-bertema-informatika/
 
 Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
