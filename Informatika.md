@@ -186,3 +186,4 @@ Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
 Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
+https://cibirublog.wordpress.com/2023/12/25/membaca-dan-mengambil-inspirasi-dari-buku-bertema-informatika%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90/
