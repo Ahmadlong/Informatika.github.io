@@ -103,7 +103,8 @@ Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
 Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
-
+https://youtu.be/OTbXXwr35Zc
+Untuk teks to teks dapat menggunakan chatgbt
 
 Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
