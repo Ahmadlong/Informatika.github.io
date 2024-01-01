@@ -117,7 +117,7 @@ Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
 Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
-
+https://cibirublog.wordpress.com/2023/12/25/mendaftar-dan-mencoba-eksplorasi-huggingface-v-%e2%ad%90%e2%ad%90%e2%ad%90/
 
 Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
