@@ -121,7 +121,7 @@ Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
 Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
-
+https://youtu.be/tx_EHhua9gs
 
 Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
