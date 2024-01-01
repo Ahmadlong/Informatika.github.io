@@ -136,6 +136,8 @@ Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
 Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
+https://cibirublog.wordpress.com/2024/01/01/eksplorasi-artikel-jurnal-conference-di-repository-terekognisi-internasional-ieee-arxiv-science-direct-acm-dblp/
+
 Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 https://youtu.be/wF_16y3DpBw
