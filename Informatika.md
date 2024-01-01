@@ -100,6 +100,7 @@ Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v]
 
 Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
+https://youtu.be/GiRdmXao6a8
 
 Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
