@@ -110,7 +110,7 @@ Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition,
 
 Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
-
+https://cibirublog.wordpress.com/2023/12/26/mencoba-data-visualization-dengan-tools-v-%e2%ad%90%e2%ad%90/
 
 Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
