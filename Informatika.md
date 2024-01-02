@@ -185,7 +185,7 @@ Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
 Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
-
+https://cibirublog.wordpress.com/2023/12/25/mengikuti-workshop-event-course-terkait-it-%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90/
 
 Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
