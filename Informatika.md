@@ -137,7 +137,7 @@ https://youtu.be/tx_EHhua9gs
 
 Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
-
+https://cibirublog.wordpress.com/2023/12/26/mencoba-protokol-komunikasi-iot-mqtt/
 
 Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
