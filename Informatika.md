@@ -74,7 +74,7 @@ https://cibirublog.wordpress.com/2024/01/02/mencoba-pembuatan-file-json/
 
 Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
-
+https://cibirublog.wordpress.com/2024/01/02/mencoba-penggunaan-web-hosting-dengan-untuk-halaman-html/
 
 Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
