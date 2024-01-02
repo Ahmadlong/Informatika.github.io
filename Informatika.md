@@ -143,6 +143,8 @@ Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
 Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
+https://cibirublog.wordpress.com/2024/01/02/mencoba-memproses-file-big-data-orc-menggunakan-google-colab/
+
 Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
 https://cibirublog.wordpress.com/2023/12/24/menjelaskan-jurnal-conference-artikel-grade-jurnal-v-%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90/
