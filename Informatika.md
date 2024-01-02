@@ -143,6 +143,8 @@ https://cibirublog.wordpress.com/2023/12/26/mencoba-protokol-komunikasi-iot-mqtt
 
 Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
+https://cibirublog.wordpress.com/2024/01/02/mencoba-memproses-file-csv-menggunakan-google-colab/
+
 Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
 https://cibirublog.wordpress.com/2024/01/02/mencoba-memproses-file-big-data-orc-menggunakan-google-colab/
