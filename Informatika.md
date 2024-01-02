@@ -82,6 +82,8 @@ https://cibirublog.wordpress.com/2023/12/26/mengeksplorasi-dan-menjelaskan-layan
 
 Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
+https://wordpress.com/view/cibiru7.wordpress.com
+
 Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
 https://cibirublog.wordpress.com/2023/12/25/mendemonstrasikan-akses-konten-multimedia-image-audio-video/
