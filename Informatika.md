@@ -96,7 +96,7 @@ Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
 Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
-
+https://youtu.be/emSc3G_3cEA
 
 Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
