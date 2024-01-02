@@ -109,6 +109,7 @@ Untuk teks to teks dapat menggunakan chatgbt
 
 Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
+https://youtu.be/BdviOjDF4L4
 
 Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
