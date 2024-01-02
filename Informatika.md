@@ -171,7 +171,7 @@ https://youtu.be/k6bpNXGQKB0
 
 Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
 
-
+https://youtu.be/JB_tYSwRcbk
 
 Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
