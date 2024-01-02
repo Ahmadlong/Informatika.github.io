@@ -106,7 +106,7 @@ https://cibirublog.wordpress.com/2024/01/02/mencoba-pembuatan-game-dan-simulasi-
 
 Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
-https://youtu.be/emSc3G_3cEA
+https://cibirublog.wordpress.com/2024/01/02/mencoba-edit-konten-multimedia-image-audio-video/
 
 Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
