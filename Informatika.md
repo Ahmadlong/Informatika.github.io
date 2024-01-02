@@ -193,6 +193,8 @@ www.linkedin.com/in/ahmad-ridwan123
 
 Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
+https://github.com/Ahmadlong/Informatika.github.io/deployments/github-pages
+
 Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
 https://cibirublog.wordpress.com/2023/12/25/mengikuti-workshop-event-course-terkait-it-%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90/
