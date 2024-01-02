@@ -78,6 +78,8 @@ https://cibirublog.wordpress.com/2024/01/02/mencoba-penggunaan-web-hosting-denga
 
 Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
+https://cibirublog.wordpress.com/2024/01/02/mencoba-penggunaan-web-hosting-dengan-untuk-web-service/
+
 Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
 Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
