@@ -94,7 +94,7 @@ https://youtube.com/shorts/DpAjZR2-zVE?feature=share
 
 Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
-
+https://cibirublog.wordpress.com/2024/01/02/mencoba-pembuatan-game-dan-simulasi-menggunakan-logo/
 
 Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
