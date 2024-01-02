@@ -46,6 +46,8 @@ https://youtu.be/4dO_7ht1b34
 
 Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
+https://cibirublog.wordpress.com/2024/01/02/mencoba-instalasi-database-postgresql-mysql-dsb/
+
 Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
 Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
