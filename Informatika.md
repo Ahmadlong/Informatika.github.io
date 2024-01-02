@@ -10,8 +10,6 @@ https://cibirublog.wordpress.com/2023/12/25/menjelaskan-jenis-jenis-mesin-komput
 
 Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
-https://colab.research.google.com/drive/1a0YsGfP85vd4OGvpapMHinqvqxGv0Pc2#scrollTo=7UUqDyQSI-AH&line=3&uniqifier=1
-
 https://youtu.be/87DASFROhuI
 
 Windows CMD [v] ⭐⭐⭐⭐
@@ -19,6 +17,8 @@ Windows CMD [v] ⭐⭐⭐⭐
 https://cibirublog.wordpress.com/2023/12/17/cmd-windows/
 
 Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+
+https://colab.research.google.com/drive/1a0YsGfP85vd4OGvpapMHinqvqxGv0Pc2#scrollTo=7UUqDyQSI-AH&line=3&uniqifier=1
 
 Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
